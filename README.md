@@ -1,6 +1,7 @@
 # Slither.io clone for Rawb.tv
 
-This is a slither.io clone for rawb.tv so we can all play together and add lots of memes
+This is a slither.io clone for rawb.tv so we can all play together and add lots of memes.
+
 Created with socket.io and a custom js game engine.
 ___
 ### Showcase
